@@ -27,15 +27,24 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
+<img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/787a426d-5bc0-411d-8960-f275e6cf4f26" />
+
+
 
 ### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+<img width="796" height="508" alt="image" src="https://github.com/user-attachments/assets/634aaca5-0a26-4ced-a836-3882c57b707a" />
+
+## Calculation:
+
+<img width="892" height="1280" alt="image" src="https://github.com/user-attachments/assets/1cc5cb88-a7a4-4a74-aaf4-38fd37ffb3c7" />
+
+
+## Mark SplitUp:
+
+
+![WhatsApp Image 2025-11-19 at 21 39 08_b6dafc80](https://github.com/user-attachments/assets/2d9558a7-3123-4636-a72a-8457800afa31)
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
