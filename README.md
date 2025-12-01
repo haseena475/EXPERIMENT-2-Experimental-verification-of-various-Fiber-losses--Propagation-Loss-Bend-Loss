@@ -4,7 +4,7 @@
 **Aim:**  
 To measure propagation and bending losses for two wavelengths in plastic fiber.
 
-**Equipments Required:**  
+**Equipments Required:** 
 - Link-B Kit  
 - Patch chords  
 - Oscilloscope  
